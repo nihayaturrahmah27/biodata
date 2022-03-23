@@ -1,0 +1,33 @@
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+   
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(qq.jpg)no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 500px;
+    background: rgba(255, 254, 254, 0.4);
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(31, 29, 29);
+    font-family: "century gothic, sans-serif";
+}
+
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
